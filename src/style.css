@@ -1,0 +1,20 @@
+.input_box {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 30px;
+  padding: 20px 15px;
+  width: 20%;
+  border: 1px solid black;
+}
+.output_box {
+  margin: 20px 30px;
+  padding: 20px 30px 20px 0px;
+  width: 20%;
+  border: 1px solid black;
+}
+li {
+  padding: 10px;
+  border: 1px solid black;
+  list-style-type: none;
+  border-radius: 10px;
+}
